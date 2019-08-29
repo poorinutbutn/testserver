@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> กำแพงเพชร (ข)</endterminal>
+        <timeout>09:45  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.1ข</standard>
+        <price>281</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> กำแพงเพชร (ข)</endterminal>
+        <timeout>23:30  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.1ข</standard>
+        <price>281</price>
+    </roundtrip>
+</roundtrip>
